@@ -5,10 +5,10 @@ This project is an Order Management System that provides a simple interface for 
 
 Features
 ----
-Order Placement: Place orders with a customer name and address.
-Cost Calculation: Calculate total costs based on price and quantity.
-Invoice Generation: Generate invoices for orders.
-Email Notifications: Send email alerts to specified addresses.
+> Order Placement: Place orders with a customer name and address. <br>
+> Cost Calculation: Calculate total costs based on price and quantity. <br>
+> Invoice Generation: Generate invoices for orders. <br>
+> Email Notifications: Send email alerts to specified addresses.
 
 Diagram
 ----
